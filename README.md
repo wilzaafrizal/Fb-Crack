@@ -15,6 +15,7 @@ $ pip2 install mechanize
 $ pip2 install futures
 
 $git clone https://github.com/wilzaafrizal/Fb-Crack
+
 $cd Fb-Crack
 
 $git pull
